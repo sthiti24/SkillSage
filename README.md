@@ -2,7 +2,7 @@
 
 ## About
 
-SkillSage is a powerful tool that provides comprehensive data on skills, locations, and salary statistics for various job roles across different countries. Leveraging the Adzuna API, this application offers real-time, data-driven insights to job seekers, employers, and market analysts.
+SkillSage is a powerful interface that provides comprehensive data on skills, locations, and salary statistics for various job roles across different countries. Leveraging the Adzuna API, this application offers real-time, data-driven insights to job seekers, employers, and market analysts.
 
 ## Features
 
